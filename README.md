@@ -19,15 +19,12 @@ This project aims to develop an **AI-Based Cloud Maturity Assessment Framework**
 ---
 
 # Objectives
-
-- Assess the cloud readiness and digital maturity of rural MSMEs.
-- Develop an AI-driven model to predict cloud maturity levels.
-- Improve transparency using Explainable AI (SHAP and LIME) to justify AI predictions.
-- Generate personalized cloud adoption recommendations using Decision Intelligence.
-- Identify key barriers affecting cloud adoption.
-- Provide a phased cloud migration roadmap based on business requirements.
-- Present assessment results through an interactive dashboard with reports and analytics.
-- Build a scalable cloud-native framework that supports future enhancements and continuous assessments.
+- To develop an intelligent cloud maturity assessment framework for rural MSMEs by addressing the limitations of existing static cloud and digital  - maturity models identified in the literature.
+- To design a machine learning-based prediction model that accurately evaluates the cloud maturity level of MSMEs using organizational, technological, and operational parameters.
+- To incorporate Explainable Artificial Intelligence (XAI) for providing transparent and interpretable explanations of AI-generated cloud maturity predictions, thereby improving user trust and decision-making.
+- To develop a Decision Intelligence Engine that generates personalized cloud adoption recommendations and phased digital transformation roadmaps based on the predicted maturity level.
+- To implement the proposed framework using Amazon Web Services (AWS) to ensure secure, scalable, and cloud-native deployment for practical real-world applications.
+- To validate the effectiveness of the proposed framework by comparing its cloud maturity assessment and recommendation capabilities with existing approaches reported in the literature.
 
 ---
 
