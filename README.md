@@ -9,7 +9,25 @@
 | **Varnika S L** | Full Stack Development, Database, API Integration |
 
 ---
+## Student Contribution
 
+| Activity | Ponmagal H | Deeksha P | Varnika S L |
+|-------------------------------|:----------:|:---------:|:-----------:|
+| Literature Survey (5 Papers) | ✓ | ✓ | ✓ |
+| Research Gap Analysis | ✓ | ✓ | ✓ |
+| Proposed Architecture Design | ✓ | ✓ | ✓ |
+| Frontend Development |  |  | ✓ |
+| Backend Development |  |  | ✓ |
+| Database Integration |  |  | ✓ |
+| Cloud Infrastructure & Deployment | ✓ |  |  |
+| AI / Machine Learning |  | ✓ |  |
+| Explainable AI & Decision Intelligence |  | ✓ |  |
+| Testing & Integration | ✓ | ✓ | ✓ |
+| Documentation | ✓ | ✓ | ✓ |
+| Presentation | ✓ | ✓ | ✓ |
+| GitHub Commits | ✓ | ✓ | ✓ |
+
+---
 # Problem Statement
 
 Rural Micro, Small, and Medium Enterprises (MSMEs) face significant challenges in adopting cloud technologies due to limited digital awareness, inadequate infrastructure, financial constraints, and lack of technical expertise. Existing cloud maturity assessment models are primarily designed for large enterprises and often rely on static scoring methods that do not provide personalized or explainable recommendations.
